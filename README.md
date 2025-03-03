@@ -1,0 +1,2 @@
+# ChuckNorrisfactApp
+ Using C# in Visual Studio, create Proof-of-Concept code that uses an API to request information from an external site and displays the results. The app will be simple as will the UI. The app may request one piece of data from the user and return an answer (eg, input a stock symbol and return the current price). Or the app may allow a single command from the user and return some information (eg, [get] button returns a Chuck Norris fact).
